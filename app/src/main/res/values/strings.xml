@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidSecurity_01</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="hint">Hint</string>
+    <string name="enter">Enter</string>
+    <string name="submit">Submit</string>
+    <string name="status">Status</string>
+</resources>
