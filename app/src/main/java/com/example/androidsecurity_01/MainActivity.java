@@ -162,6 +162,7 @@ public class MainActivity extends AppCompatActivity {
         main_MTV_hint2.setVisibility(View.GONE);
         main_MTV_status.setText("Welcome");
         main_MTV_status.setVisibility(View.VISIBLE);
+        main_MTV_status.setTextSize(32);
     }
 
     private void hint2Clicked() {
